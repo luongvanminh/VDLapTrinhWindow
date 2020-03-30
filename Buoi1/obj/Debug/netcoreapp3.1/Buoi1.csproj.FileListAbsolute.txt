@@ -1,0 +1,10 @@
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/bin/Debug/netcoreapp3.1/Buoi1.deps.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/bin/Debug/netcoreapp3.1/Buoi1.runtimeconfig.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/bin/Debug/netcoreapp3.1/Buoi1.runtimeconfig.dev.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/bin/Debug/netcoreapp3.1/Buoi1.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/bin/Debug/netcoreapp3.1/Buoi1.pdb
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/obj/Debug/netcoreapp3.1/Buoi1.csprojAssemblyReference.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/obj/Debug/netcoreapp3.1/Buoi1.AssemblyInfoInputs.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/obj/Debug/netcoreapp3.1/Buoi1.AssemblyInfo.cs
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/obj/Debug/netcoreapp3.1/Buoi1.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi1/obj/Debug/netcoreapp3.1/Buoi1.pdb

@@ -1,0 +1,10 @@
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/bin/Debug/netcoreapp3.1/VDDieuKhien.deps.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/bin/Debug/netcoreapp3.1/VDDieuKhien.runtimeconfig.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/bin/Debug/netcoreapp3.1/VDDieuKhien.runtimeconfig.dev.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/bin/Debug/netcoreapp3.1/VDDieuKhien.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/bin/Debug/netcoreapp3.1/VDDieuKhien.pdb
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/obj/Debug/netcoreapp3.1/VDDieuKhien.csprojAssemblyReference.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/obj/Debug/netcoreapp3.1/VDDieuKhien.AssemblyInfoInputs.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/obj/Debug/netcoreapp3.1/VDDieuKhien.AssemblyInfo.cs
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/obj/Debug/netcoreapp3.1/VDDieuKhien.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDDieuKhien/obj/Debug/netcoreapp3.1/VDDieuKhien.pdb

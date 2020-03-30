@@ -1,0 +1,10 @@
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/bin/Debug/netcoreapp3.1/VDOOP.deps.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/bin/Debug/netcoreapp3.1/VDOOP.runtimeconfig.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/bin/Debug/netcoreapp3.1/VDOOP.runtimeconfig.dev.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/bin/Debug/netcoreapp3.1/VDOOP.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/bin/Debug/netcoreapp3.1/VDOOP.pdb
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/obj/Debug/netcoreapp3.1/VDOOP.csprojAssemblyReference.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/obj/Debug/netcoreapp3.1/VDOOP.AssemblyInfoInputs.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/obj/Debug/netcoreapp3.1/VDOOP.AssemblyInfo.cs
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/obj/Debug/netcoreapp3.1/VDOOP.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi2/VDOOP/obj/Debug/netcoreapp3.1/VDOOP.pdb

@@ -1,0 +1,10 @@
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/bin/Debug/netcoreapp3.1/ExampleStrategy.deps.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/bin/Debug/netcoreapp3.1/ExampleStrategy.runtimeconfig.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/bin/Debug/netcoreapp3.1/ExampleStrategy.runtimeconfig.dev.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/bin/Debug/netcoreapp3.1/ExampleStrategy.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/bin/Debug/netcoreapp3.1/ExampleStrategy.pdb
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/obj/Debug/netcoreapp3.1/ExampleStrategy.csprojAssemblyReference.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/obj/Debug/netcoreapp3.1/ExampleStrategy.AssemblyInfoInputs.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/obj/Debug/netcoreapp3.1/ExampleStrategy.AssemblyInfo.cs
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/obj/Debug/netcoreapp3.1/ExampleStrategy.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleStrategy/obj/Debug/netcoreapp3.1/ExampleStrategy.pdb

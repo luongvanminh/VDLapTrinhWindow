@@ -1,0 +1,10 @@
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/bin/Debug/netcoreapp3.1/Buoi2.deps.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/bin/Debug/netcoreapp3.1/Buoi2.runtimeconfig.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/bin/Debug/netcoreapp3.1/Buoi2.runtimeconfig.dev.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/bin/Debug/netcoreapp3.1/Buoi2.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/bin/Debug/netcoreapp3.1/Buoi2.pdb
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/obj/Debug/netcoreapp3.1/Buoi2.csprojAssemblyReference.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/obj/Debug/netcoreapp3.1/Buoi2.AssemblyInfoInputs.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/obj/Debug/netcoreapp3.1/Buoi2.AssemblyInfo.cs
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/obj/Debug/netcoreapp3.1/Buoi2.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi2/obj/Debug/netcoreapp3.1/Buoi2.pdb

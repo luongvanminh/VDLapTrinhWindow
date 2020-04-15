@@ -67,7 +67,7 @@ namespace Buoi2
             return !(a<b);
         }
 
-        // So sanh lon hon hoac bang a / b va c / d => a / b - c / d >= 0 <=> (a*d - b*c)/(b*d) >= 0
+        // So sanh nho hon hoac bang a / b va c / d => a / b - c / d <= 0 <=> (a*d - b*c)/(b*d) <= 0
         public static bool operator <= (PhanSo a, PhanSo b) {
             return !(a>b);
         }
@@ -127,5 +127,45 @@ namespace Buoi2
             else
                 throw new FormatException();
         }
+
+        static int gcd(int a, int b)
+        {
+            while (a != b)
+                if (a < b) b = b - a;
+                else a = a - b;
+
+            return (a);
+        }
+
+        static int division(int a, int b)
+            {
+            int remainder=a, quotient=0;
+            while (remainder >= b)
+            {
+                remainder = remainder - b;
+                quotient++;
+            }
+            return (quotient);            
+        }
+
+        public static PhanSo Reduce(PhanSo phanSo) {
+            int divisor, numerator, denominator, reducedNumerator, reducedDenominator;
+            numerator = phanSo.tuSo;
+            denominator = phanSo.mauSo;
+            
+            divisor = gcd(numerator, denominator);
+            
+            if (divisor!=1)
+            {
+                reducedNumerator = division(numerator, divisor);
+                reducedDenominator = division(denominator, divisor);
+                return new PhanSo(reducedNumerator, reducedDenominator);
+            }
+            else
+                return phanSo;
+        }
+
     }
+
+    
 }

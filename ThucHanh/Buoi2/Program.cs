@@ -22,6 +22,7 @@ namespace Buoi2
 
             PhanSo kq = phanSoA - phanSoB;
 
+            kq = PhanSo.Reduce(kq);
             kq.prettyPrint();
 
             if (phanSoA >= phanSoB) {

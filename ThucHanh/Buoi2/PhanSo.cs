@@ -83,8 +83,49 @@ namespace Buoi2
             return !(a==b);
         }
 
+        public override bool Equals(object o) {
+            if(o == null)
+                return false;
+
+            var second = o as PhanSo;
+
+            return second != null && tuSo == second.tuSo && mauSo == second.mauSo;
+        }
+
+        public override int GetHashCode() {
+            return Tuple.Create(tuSo, mauSo).GetHashCode();;
+        }
+
         public void prettyPrint() {
             Console.WriteLine("Gia tri la: " + tuSo + " / " + mauSo);
+        }
+
+        public static PhanSo Parse(string phanSo) {
+            if (phanSo == null) throw new FormatException();
+
+            string[] split = phanSo.Split( '/' );
+            int len = split.Length;
+
+            if ( len == 2 )
+            {
+                int s0 = int.Parse( split[0] );
+                int s1 = int.Parse( split[1] );
+                return new PhanSo( s0, s1 );
+            }
+            else if ( len == 4 )
+            {
+                int s0 = int.Parse( split[0] );
+                int s1 = int.Parse( split[1] );
+                PhanSo f1 = new PhanSo( s0, s1 );
+
+                int s2 = int.Parse( split[2] );
+                int s3 = int.Parse( split[3] );
+                PhanSo f2 = new PhanSo( s2, s3 );
+
+                return f1 / f2;
+            }
+            else
+                throw new FormatException();
         }
     }
 }

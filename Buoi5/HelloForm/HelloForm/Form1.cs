@@ -21,7 +21,13 @@ namespace HelloForm
         {
             this.Width = 500;
             this.Height = 700;
-            Console.WriteLine("Hello Win Form");
+            //Console.WriteLine("Hello Win Form");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.textBox1.Text = "Hello";
+            this.textBox2.Text = "Check";
         }
     }
 }

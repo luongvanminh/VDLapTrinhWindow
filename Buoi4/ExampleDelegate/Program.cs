@@ -9,7 +9,6 @@ namespace ExampleDelegate
             // BaseDelegate baseDelegate = StrategySortMethod.command;
             // baseDelegate += StrategyOddMethod.command;
             // baseDelegate += StrategyEvenMethod.command;
-
             // baseDelegate = StrategyOddMethod.command;
 
             MyList mList = new MyList(StrategySortMethod.command);

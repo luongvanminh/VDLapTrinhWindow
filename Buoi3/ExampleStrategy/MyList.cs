@@ -8,6 +8,8 @@ namespace ExampleStrategy
         private int [] arr = new int[8]  { 2,  5, 4, 7, 9, 3, 2, 6};
         BaseStrategy strategy;
 
+        // public delegate int command(int [] arr);
+
         // Constructor
         public MyList(BaseStrategy mStrategy) {
             this.strategy = mStrategy;
@@ -16,6 +18,7 @@ namespace ExampleStrategy
         public void Display() {
             this.strategy.command(this.arr);
         }
+
 
     }
 }

@@ -19,7 +19,9 @@ namespace HelloForm
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            this.Width = 500;
+            this.Height = 700;
+            Console.WriteLine("Hello Win Form");
         }
     }
 }

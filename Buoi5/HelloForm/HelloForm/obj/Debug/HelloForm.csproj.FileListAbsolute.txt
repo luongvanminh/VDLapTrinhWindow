@@ -1,0 +1,8 @@
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloForm\HelloForm\bin\Debug\HelloForm.exe.config
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloForm\HelloForm\bin\Debug\HelloForm.exe
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloForm\HelloForm\bin\Debug\HelloForm.pdb
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloForm\HelloForm\obj\Debug\HelloForm.csprojResolveAssemblyReference.cache
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloForm\HelloForm\obj\Debug\HelloForm.Properties.Resources.resources
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloForm\HelloForm\obj\Debug\HelloForm.csproj.GenerateResource.Cache
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloForm\HelloForm\obj\Debug\HelloForm.exe
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloForm\HelloForm\obj\Debug\HelloForm.pdb

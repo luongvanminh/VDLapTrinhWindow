@@ -1,0 +1,10 @@
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/bin/Debug/netcoreapp3.1/Bai4.deps.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/bin/Debug/netcoreapp3.1/Bai4.runtimeconfig.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/bin/Debug/netcoreapp3.1/Bai4.runtimeconfig.dev.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/bin/Debug/netcoreapp3.1/Bai4.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/bin/Debug/netcoreapp3.1/Bai4.pdb
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/obj/Debug/netcoreapp3.1/Bai4.csprojAssemblyReference.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/obj/Debug/netcoreapp3.1/Bai4.AssemblyInfoInputs.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/obj/Debug/netcoreapp3.1/Bai4.AssemblyInfo.cs
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/obj/Debug/netcoreapp3.1/Bai4.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai4/obj/Debug/netcoreapp3.1/Bai4.pdb

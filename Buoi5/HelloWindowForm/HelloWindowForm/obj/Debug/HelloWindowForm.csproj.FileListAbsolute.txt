@@ -1,0 +1,9 @@
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloWindowForm\HelloWindowForm\bin\Debug\HelloWindowForm.exe.config
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloWindowForm\HelloWindowForm\bin\Debug\HelloWindowForm.exe
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloWindowForm\HelloWindowForm\bin\Debug\HelloWindowForm.pdb
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloWindowForm\HelloWindowForm\obj\Debug\HelloWindowForm.csprojResolveAssemblyReference.cache
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloWindowForm\HelloWindowForm\obj\Debug\HelloWindowForm.Properties.Resources.resources
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloWindowForm\HelloWindowForm\obj\Debug\HelloWindowForm.csproj.GenerateResource.Cache
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloWindowForm\HelloWindowForm\obj\Debug\HelloWindowForm.exe
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloWindowForm\HelloWindowForm\obj\Debug\HelloWindowForm.pdb
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\Buoi5\HelloWindowForm\HelloWindowForm\obj\Debug\HelloWindowForm.Form1.resources

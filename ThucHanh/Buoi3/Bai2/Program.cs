@@ -15,9 +15,9 @@ namespace Bai2
             Console.Write("Vui long nhap gia tri cua x: ");
             mDathuc.x = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Gia tri da thuc tai x = " + mDathuc.x + " la: " +mDathuc.GiaTriCuaDaThuc());
+            Console.WriteLine("Gia tri da thuc tai x = " + mDathuc.x + " la: " + mDathuc.GiaTriCuaDaThuc());
             // f(x) = 3.6 + 2.7 * x^1 + 4.1 * x^2 + 8.9 * x^3 + 0.3 * x^4
-            // tinh gia tri tai x = 1.5
+            // tinh gia tri tai x = 1.5 la 48.43125
         }
     }
 }

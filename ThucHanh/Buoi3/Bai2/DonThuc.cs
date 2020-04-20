@@ -9,7 +9,7 @@ namespace Bai2
         public int soMuN;
 
         public DonThuc() {
-            heSoA = 1;
+            heSoA = 0;
             soMuN = 0;
         }
 

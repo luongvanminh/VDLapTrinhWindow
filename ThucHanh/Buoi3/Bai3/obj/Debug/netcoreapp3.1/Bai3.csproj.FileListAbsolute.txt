@@ -1,0 +1,10 @@
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/bin/Debug/netcoreapp3.1/Bai3.deps.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/bin/Debug/netcoreapp3.1/Bai3.runtimeconfig.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/bin/Debug/netcoreapp3.1/Bai3.runtimeconfig.dev.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/bin/Debug/netcoreapp3.1/Bai3.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/bin/Debug/netcoreapp3.1/Bai3.pdb
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/obj/Debug/netcoreapp3.1/Bai3.csprojAssemblyReference.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/obj/Debug/netcoreapp3.1/Bai3.AssemblyInfoInputs.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/obj/Debug/netcoreapp3.1/Bai3.AssemblyInfo.cs
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/obj/Debug/netcoreapp3.1/Bai3.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Bai3/obj/Debug/netcoreapp3.1/Bai3.pdb

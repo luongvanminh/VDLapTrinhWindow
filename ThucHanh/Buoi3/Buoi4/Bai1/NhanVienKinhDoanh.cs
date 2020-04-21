@@ -12,7 +12,7 @@ namespace Bai1
             set { _soLuongHopDong = value; }
         }
 
-        public int _luongCoban = 0;
+        private int _luongCoban = 0;
 
         public int luongCoBan {
             get { return _luongCoban; }

@@ -4,7 +4,7 @@ namespace Bai1
 {
     public class NhanVienSanXuat:NhanVien 
     {
-        public static int TIEN_CONG_MOI_SAN_PHAM = 1000;
+        public static readonly int TIEN_CONG_MOI_SAN_PHAM = 1000;
         private int _soLuongSanPham = 0;
 
         public int soLuongSanPham {

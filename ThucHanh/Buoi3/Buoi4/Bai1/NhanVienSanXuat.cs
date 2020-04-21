@@ -21,7 +21,7 @@ namespace Bai1
             //     return (int) ((this.soLuongSanPham * NhanVienSanXuat.TIEN_CONG_MOI_SAN_PHAM) * 1.05);
             // } 
             int kq = this.soLuongSanPham * NhanVienSanXuat.TIEN_CONG_MOI_SAN_PHAM;
-            if (this.soLuongSanPham >= 3000)
+            if (this.soLuongSanPham > 3000)
                 kq = (int) (kq*1.05);
             return kq;
         }

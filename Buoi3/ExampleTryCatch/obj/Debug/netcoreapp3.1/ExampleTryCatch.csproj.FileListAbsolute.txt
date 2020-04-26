@@ -1,0 +1,10 @@
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/bin/Debug/netcoreapp3.1/ExampleTryCatch.deps.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/bin/Debug/netcoreapp3.1/ExampleTryCatch.runtimeconfig.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/bin/Debug/netcoreapp3.1/ExampleTryCatch.runtimeconfig.dev.json
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/bin/Debug/netcoreapp3.1/ExampleTryCatch.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/bin/Debug/netcoreapp3.1/ExampleTryCatch.pdb
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/obj/Debug/netcoreapp3.1/ExampleTryCatch.csprojAssemblyReference.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/obj/Debug/netcoreapp3.1/ExampleTryCatch.AssemblyInfoInputs.cache
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/obj/Debug/netcoreapp3.1/ExampleTryCatch.AssemblyInfo.cs
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/obj/Debug/netcoreapp3.1/ExampleTryCatch.dll
+/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/obj/Debug/netcoreapp3.1/ExampleTryCatch.pdb

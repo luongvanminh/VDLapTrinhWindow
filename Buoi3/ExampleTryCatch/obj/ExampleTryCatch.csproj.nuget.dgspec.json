@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Buoi4/Bai1/Bai1.csproj": {}
+    "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/ExampleTryCatch.csproj": {}
   },
   "projects": {
-    "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Buoi4/Bai1/Bai1.csproj": {
+    "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/ExampleTryCatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Buoi4/Bai1/Bai1.csproj",
-        "projectName": "Bai1",
-        "projectPath": "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Buoi4/Bai1/Bai1.csproj",
+        "projectUniqueName": "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/ExampleTryCatch.csproj",
+        "projectName": "ExampleTryCatch",
+        "projectPath": "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/ExampleTryCatch.csproj",
         "packagesPath": "/Users/minhluongvan/.nuget/packages/",
-        "outputPath": "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/ThucHanh/Buoi3/Buoi4/Bai1/obj/",
+        "outputPath": "/Users/minhluongvan/Workspace/DotNet/WindowProgramming/Buoi3/ExampleTryCatch/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

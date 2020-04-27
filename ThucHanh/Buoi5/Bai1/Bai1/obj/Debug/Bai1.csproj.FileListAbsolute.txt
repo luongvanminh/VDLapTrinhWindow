@@ -1,0 +1,9 @@
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\ThucHanh\Buoi5\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\ThucHanh\Buoi5\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\ThucHanh\Buoi5\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\ThucHanh\Buoi5\Bai1\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\ThucHanh\Buoi5\Bai1\Bai1\obj\Debug\Bai1.FormBai1.resources
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\ThucHanh\Buoi5\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\ThucHanh\Buoi5\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.Cache
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\ThucHanh\Buoi5\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\Users\Minh Luong\Documents\Workspace\DotNet\VDLapTrinhWindow\ThucHanh\Buoi5\Bai1\Bai1\obj\Debug\Bai1.pdb

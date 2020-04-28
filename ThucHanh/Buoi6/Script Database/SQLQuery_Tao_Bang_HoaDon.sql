@@ -1,0 +1,5 @@
+USE QLQuan;
+CREATE TABLE HoaDon (
+    MSDH VARCHAR (10) PRIMARY KEY,
+    NgayDat DATETIME
+);

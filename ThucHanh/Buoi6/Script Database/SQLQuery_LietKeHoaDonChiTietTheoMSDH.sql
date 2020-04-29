@@ -1,4 +1,3 @@
-USE QLQuan;
 SELECT * 
 From HDChiTietDatHang hdct
 INNER JOIN ThucUong thucUong 

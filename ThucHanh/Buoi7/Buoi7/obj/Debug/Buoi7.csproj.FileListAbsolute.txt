@@ -1,0 +1,12 @@
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\bin\Debug\Buoi7.exe.config
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\bin\Debug\Buoi7.exe
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\bin\Debug\Buoi7.pdb
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\obj\Debug\Buoi7.csprojResolveAssemblyReference.cache
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\obj\Debug\Buoi7.Properties.Resources.resources
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\obj\Debug\Buoi7.csproj.GenerateResource.Cache
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\obj\Debug\Buoi7.exe
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\obj\Debug\Buoi7.pdb
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\obj\Debug\Buoi7.Buoi7.resources
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\obj\Debug\Buoi7.FormThemMoi.resources
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\obj\Debug\Buoi7.FormChinhSua.resources
+C:\Users\Minh Luong\Desktop\Buoi7\Buoi7\obj\Debug\Buoi7.FormXoaThucUong.resources

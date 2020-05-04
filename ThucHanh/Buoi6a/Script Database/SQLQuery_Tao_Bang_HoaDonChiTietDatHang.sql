@@ -1,0 +1,8 @@
+USE QLQuan;
+CREATE TABLE HDChiTietDatHang (
+    MSDH VARCHAR (10),
+    MSHH VARCHAR (10),
+    SoLuong INT NOT NULL,
+    TiLeGiam INT,
+    PRIMARY KEY (MSDH, MSHH)
+);

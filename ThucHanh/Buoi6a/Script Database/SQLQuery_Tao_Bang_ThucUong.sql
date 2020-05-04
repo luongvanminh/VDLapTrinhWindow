@@ -1,0 +1,7 @@
+USE QLQuan;
+CREATE TABLE ThucUong (
+    MSHH VARCHAR (10) PRIMARY KEY,
+    TenHang VARCHAR (40) NOT NULL,
+    Gia INT NOT NULL,
+    TinhTrang BIT
+);

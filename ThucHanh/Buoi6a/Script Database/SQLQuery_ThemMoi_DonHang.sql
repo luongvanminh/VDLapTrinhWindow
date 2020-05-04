@@ -1,0 +1,3 @@
+USE QLQuan;
+INSERT INTO HoaDon (MSDH, NgayDat)
+VALUES ('DH0004', '4/28/2020 1:32:17 PM');
